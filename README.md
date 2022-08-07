@@ -1,2 +1,2 @@
 # harry-potter-spellbook
-Self-learning HTML/CSS by creating a website 'spellbook' for Harry Potter. 
+A spellbook for all things magical from the Harry Potter fictional universe. 
